@@ -20,7 +20,7 @@
 #Scroll-to-Item
 #Photo-Zoom-In/Out
 
-![1](https://user-images.githubusercontent.com/82731243/197611502-75f404ed-187b-4405-bef4-e0078a9ca746.png = 100x216)
+![1](https://user-images.githubusercontent.com/82731243/197611502-75f404ed-187b-4405-bef4-e0078a9ca746.png | width = 100)
 ![2](https://user-images.githubusercontent.com/82731243/197611488-ee7999c2-99e8-4cce-9430-f1a5c30db552.png = 100x216)
 ![3](https://user-images.githubusercontent.com/82731243/197611452-60a8a552-f2a1-4c07-a08d-3049cb18f560.png = 100x216)
 ![4](https://user-images.githubusercontent.com/82731243/197611424-0f8247e3-149a-45d1-9692-c129c651e443.png = 100x216)
