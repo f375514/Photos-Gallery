@@ -20,7 +20,7 @@
 #Scroll-to-Item
 #Photo-Zoom-In/Out
 
-<img src="[[https://camo.githubusercontent.com/...](https://user-images.githubusercontent.com/82731243/197611502-75f404ed-187b-4405-bef4-e0078a9ca746.png)](https://user-images.githubusercontent.com/82731243/197611502-75f404ed-187b-4405-bef4-e0078a9ca746.png)" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="100" height="200" />
+<img src="https://user-images.githubusercontent.com/82731243/197611502-75f404ed-187b-4405-bef4-e0078a9ca746.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="100" height="200" />
 
 ![1](https://user-images.githubusercontent.com/82731243/197611502-75f404ed-187b-4405-bef4-e0078a9ca746.png | width = 100)
 ![2](https://user-images.githubusercontent.com/82731243/197611488-ee7999c2-99e8-4cce-9430-f1a5c30db552.png = 100x216)
