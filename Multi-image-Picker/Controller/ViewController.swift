@@ -24,8 +24,6 @@ class ViewController: UIViewController {
         
     }
     
-    // some comment
-
     
     // MARK: - Private method -
     
